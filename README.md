@@ -26,7 +26,9 @@ Server	Apache Tomcat 9
 IDE	Eclipse
 Driver	ojdbc17.jar
 
-📁 Project Structure
+## 📁 Project Structure
+
+```
 LibraryManagement/
 │
 ├── src/
@@ -46,16 +48,18 @@ LibraryManagement/
 │       │       │   └── ViewServlet.java
 │       │       └── util/
 │       │           └── DBUtil.java
-│       │
-│       └── webapp/
-│           ├── AddBook.html
-│           ├── ViewBook.html
-│           ├── Menu.html
-│           ├── Invalid.html
-│           ├── Failure.html
-│           └── WEB-INF/
-│               └── lib/
-│                   └── ojdbc17.jar
+│
+└── webapp/
+    ├── AddBook.html
+    ├── ViewBook.html
+    ├── Menu.html
+    ├── Invalid.html
+    ├── Failure.html
+    └── WEB-INF/
+        └── lib/
+            └── ojdbc17.jar
+```
+
 
 ▶️ How to Run the Project
 
