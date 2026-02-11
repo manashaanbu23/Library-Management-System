@@ -25,6 +25,7 @@ Database	Oracle Database
 Server	Apache Tomcat 9
 IDE	Eclipse
 Driver	ojdbc17.jar
+
 📁 Project Structure
 LibraryManagement/
 │
@@ -87,10 +88,14 @@ Run project on Tomcat
 http://localhost:8080/LibraryManagement/Menu.html
 
 🖼️ Screenshots
+
 <img src="https://github.com/user-attachments/assets/f320d8fa-bea5-4800-9356-cb5a228c254b" width="800"/> <br><br>
 <img src="https://github.com/user-attachments/assets/b569464a-d8fd-4ff0-b2cd-0692e3665aff" width="800"/> <br><br> 
 <img src="https://github.com/user-attachments/assets/81da9559-0fc9-417b-8b90-af25663c18c9" width="800"/> <br><br> 
 <img src="https://github.com/user-attachments/assets/2026a6e5-a8e9-4e0f-b506-94b7a646735a" width="800"/>
+
+
+
 ❌ Error Handling Pages
 
 Invalid.html → shown for incorrect input
